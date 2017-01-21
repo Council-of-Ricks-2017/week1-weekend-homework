@@ -36,7 +36,7 @@ topics=set()
 while len(topics) != 10:
 	topics.add(random.choice(dir(globals()['__builtins__'])))
 ```
-(This is actually a joke, don't literally do this. I mean you can, but you can just pick a topic(s) that you'd like)
+(This is actually a joke, don't literally do this. I mean you can, but you can just pick whichever topic(s) you'd like)
 
 6. How long does the presentation have to be?
 It’s a 5 minute or less presentation. You don’t have to present exactly five minutes worth of material but we’re capping it at 5 minutes to try to get you in the habit of explaining yourself succinctly.
