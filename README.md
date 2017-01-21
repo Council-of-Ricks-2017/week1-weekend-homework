@@ -30,7 +30,8 @@ Pick a representative to present it on Monday.
 Yes.
 
 5. How do I pick which topic I want to do?
-```import random
+```
+import random
 
 topics=set()
 while len(topics) != 10:
