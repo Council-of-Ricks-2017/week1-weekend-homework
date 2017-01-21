@@ -1,4 +1,4 @@
-# week1-weekend-homework
+# Week1 weekend homework
 For your weekend homework, please choose one of the built in functions from the list below. Explain what the function does, provide at least one example of the use of the function and be prepared to present this topic on Monday.
 
 ```zip
